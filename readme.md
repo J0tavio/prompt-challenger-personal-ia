@@ -132,3 +132,64 @@ Resposta do  Usuário ->
 - Biótipo: Ectomorfo.
 - Dias disponíveis na semana: 5 dias.
 - Tipos de exercícios: Peso livre, Máquinario e cardio. 
+
+## Resposta 
+
+Com base nas informações fornecidas, vamos montar um treino focado em te ajudar a ganhar massa muscular, considerando suas características de ectomorfo e suas preferências por exercícios.
+
+Objetivo: Ganho de massa muscular e força.
+
+Frequência: 5 vezes por semana (treino ABCDE).
+
+Tipos de exercício: Peso livre, máquinas e cardio.
+
+Considerações importantes para ectomorfos:
+
+* Nutrição: É fundamental consumir uma quantidade adequada de calorias e proteínas para promover o crescimento muscular.
+* Descanso: O descanso é crucial para a recuperação muscular.
+* Intensidade: Os treinos devem ser intensos, com foco em movimentos compostos e cargas progressivas.
+
+## Sugestão de Treino:
+
+Dia 1: Peito e Tríceps
+* Supino reto com barra: 3 séries de 8-12 repetições
+* Supino inclinado com halteres: 3 séries de 10-12 repetições
+* Crucifixo declinado: 3 séries de 12-15 repetições
+* Desenvolvimento com halteres: 3 séries de 10-12 repetições
+* Triceps testa: 3 séries de 12-15 repetições
+* Extensão de tríceps na polia: 3 séries de 12-15 repetições
+
+Dia 2: Costas e Bíceps
+* Pull-up: 3 séries até a falha
+* Remada curvada com barra: 3 séries de 8-12 repetições
+* Remada unilateral com halteres: 3 séries de 10-12 repetições por lado
+* Rosca direta com barra: 3 séries de 10-12 repetições
+* Rosca concentrada: 3 séries de 12-15 repetições
+* Barra fixa: 3 séries até a falha
+
+Dia 3: Pernas
+* Agachamento livre: 3 séries de 8-12 repetições
+* Leg press: 3 séries de 10-12 repetições
+* Stiff: 3 séries de 12-15 repetições
+* Extensão de joelho: 3 séries de 12-15 repetições
+* Flexão de joelho: 3 séries de 12-15 repetições
+
+Dia 4: Ombros
+* Desenvolvimento com halteres acima da cabeça: 3 séries de 8-12 repetições
+* Elevação lateral: 3 séries de 12-15 repetições
+* Remada alta: 3 séries de 10-12 repetições
+
+
+Dia 5: Cardio e Abdômen
+* Corrida ou bicicleta: 30 minutos
+* Plank: 3 séries de 30 segundos a 1 minuto
+* Abdominal superior: 3 séries de 15-20 repetições
+* Abdominal inferior: 3 séries de 15-20 repetições
+* Russian twist: 3 séries de 20-25 repetições
+
+Observações:
+* Aquecimento: Realize um aquecimento de 5-10 minutos antes de cada treino, incluindo exercícios leves e alongamento.
+* Descanso entre as séries: Descanse cerca de 1-2 minutos entre as séries.
+* Progressão de carga: Aumente gradualmente a carga dos exercícios para continuar desafiando seus músculos.
+* Varie os exercícios: A cada 4-6 semanas, varie os exercícios para evitar o platô e estimular o crescimento muscular.
+* Nutrição: Consulte um nutricionista para montar um plano alimentar personalizado.
