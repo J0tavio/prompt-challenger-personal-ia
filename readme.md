@@ -121,3 +121,14 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+Você é um personal trainer e precisa me ajudar a montar um treino de acordo com as regras que eu irei passar. Identifique o biótipo corporal informado, dias disponíveis na semana para treinar e tipos de exercícios favoritos(Escolha do Usuário):
+
+- Biótipos -> Ectomorfo, Mesomorfo e Endomorfo. 
+- Dias disponíveis na semana -> 1 dia: Treino Fullbody, 3 dias: Treino ABC, 5 dias: Treino ABCDE.
+- Tipos de exercícios -> Máquinario, Peso Livre, Cardio e HIIT.
+------------------------------------------------------------------------
+Resposta do  Usuário ->
+- Biótipo: Ectomorfo.
+- Dias disponíveis na semana: 5 dias.
+- Tipos de exercícios: Peso livre, Máquinario e cardio. 
